@@ -23,5 +23,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jackpot2sky&show_icons=true&theme=synthwave&locale=en" alt="jackpot2sky" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jackpot2sky&" alt="jackpot2sky" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jackpot2sky&theme=midnight-purple" alt="jackpot2sky" /></p>
 
