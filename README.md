@@ -22,7 +22,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jackpot2sky&show_icons=true&locale=en&layout=compact" alt="jackpot2sky" /></p>
 <br><br><br><br><br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jackpot2sky&show_icons=true&theme=synthwave&locale=en" alt="jackpot2sky" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jackpot2sky&show_icons=true&theme=midnight-purple&locale=en" alt="jackpot2sky" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jackpot2sky&theme=midnight-purple" alt="jackpot2sky" /></p>
 
