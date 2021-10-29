@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jackpot2sky&label=Profile%20views&color=8000ff&style=plastic" alt="jackpot2sky" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jackpot2sky" alt="jackpot2sky" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jackpot2sky&theme=monokai&margin-w=15&margin-h=15&no-bg=true&rank=C" alt="jackpot2sky" /></a> </p>
 
 - 🔭 I’m currently working on **a chrome extension**
 
